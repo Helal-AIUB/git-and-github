@@ -1,3 +1,3 @@
 def main():
-    pass
+    """checks if there's free space in my computer"""
 main()
