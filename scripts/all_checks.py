@@ -9,6 +9,12 @@ def greater(a):
         print("Greter then 10")
     else:
         print("less then or equal 10")
+def function(exit):
+    if exit == 0:
+        return
+    else:
+        exit -=1
 abc(5)
 greater(11)
 greater(8)
+function(2)
