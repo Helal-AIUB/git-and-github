@@ -14,6 +14,8 @@ def function(exit):
         return
     else:
         exit -=1
+def disk():
+    print("disk full")
 abc(5)
 greater(11)
 greater(8)
